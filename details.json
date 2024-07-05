@@ -1,0 +1,119 @@
+[
+    {
+      "name": "UPS - (Uniterruptible Power Supply)",
+      "point": "Protecting critical systems",
+      "details": " - Temporary power supplies are often used. UPS safeguards essential equipment from power fluctuations, surges, or outrages.",
+      "point2": "Enhanced reliability",
+      "details2": " - UPS provides backup power in case of a power outage, preventing disruptions in construction activities. This is especially critical for tasks that require continuous operations.",
+      "point3": "",
+      "details3": ""
+    },
+    {
+      "name": "SMR / REC - (Switch Mode Rectifier)",
+      "point": "Converts AC to DC power.",
+      "details": " - The incoming electrical supply from overhead lines for signalling systems is usually AC. The SMR rectifies this AC into DC that can be used by the various electronic equipment.",
+      "point2": "Regulates DC output",
+      "details2": " - SMR provides a regulated DC output voltage. This mean the voltage stays consistent even with fluctuations in the incoming AC supply, ensuring stable operation for the equipment.",
+      "point3": "",
+      "details3": ""
+    },
+    {
+      "name": "DTS - (Digital Transmission System)",
+      "point": "Backbone for communication",
+      "details": " - serves as the main backbone which supports the transmission of data across different rail systems. It interconnects various railway systems e.g. PABX, CCTV, PIS, etc., to distribute real-time data, voice and video information among the central station, passenger stations and operation stations.",
+      "point2": "",
+      "details2": "",
+      "point3": "",
+      "details3": ""
+    },
+    {
+      "name": "MCS - (Master Clock System)",
+      "point": "Time synchronization",
+      "details": " - serves as a centralized clocking system which provides the local standard time.",
+      "point2": "",
+      "details2": "",
+      "point3": "",
+      "details3": ""
+    },
+    {
+      "name": "PIS - (Passenger Information System)",
+      "point": "Real-time visual updates",
+      "details": " - serves as a conveyor of visual information to railway users. Visual information such as train timetables, advertising, and infotainment through display panels.",
+      "point2": "",
+      "details2": "",
+      "point3": "",
+      "details3": ""
+    },
+    {
+      "name": "PAS - (Passenger Announcement System)",
+      "point": "Audio announcements",
+      "details": " - broadcasts audio information through speakers.",
+      "point2": "",
+      "details2": "",
+      "point3": "",
+      "details3": ""
+    },
+    {
+      "name": "CCTV / CTV - (Closed-Circuit Television)",
+      "point": "Security",
+      "details": " - provides real-time visual surveillance and verification purposes. With it, user is able to react promptly with necessary actions to ensure the safety of the railway operation.",
+      "point2": "Incident management",
+      "details2": " - CCTV footage can provide valuable insights into accidents or disruptions, aiding in investigation and response efforts.",
+      "point3": "",
+      "details3": ""
+    },
+    {
+      "name": "TETRA / TET - (Terrestrial Trunked Radio)",
+      "point": "Digital technology",
+      "details": " - provides clear & reliable voice communication compared to traditional analog radios. TETRA uses strong encryption to protect communications from eavesdropping. This is critical for sensitive information exchange in railway operations.",
+      "point2": "Network Infrastructure",
+      "details2": " - TETRA relies on a network of base stations to provide wide coverage within a designated area, ideal for railway systems that often span long distances.",
+      "point3": "Priority level calling",
+      "details3": " - the system allows prioritizing calls based on urgency, ensuring critical messages get through first."
+    },
+    {
+      "name": "PABX / PBX - (Private Automated Branch Exchange)",
+      "point": "Internal telephone network",
+      "details": " - establishes a private telephone network within an organization, allowing employees to make and receive calls internally without going through the public telephone network. It eases the communication between stations and central station which is very important especially in case of emergency.",
+      "point2": "Call routing",
+      "details2": " - system routes incoming calls to specific extensions within the organization.",
+      "point3": "",
+      "details3": ""
+    },
+    {
+      "name": "IT / CIT - (Information Technology)",
+      "point": "Core function",
+      "details": " - encompasses all the hardware, software, and the network infrastucture used to manage, store, and process electronic information within the railway system",
+      "point2": "",
+      "details2": "",
+      "point3": "",
+      "details3": ""
+    },
+    {
+      "name": "CAS - (Card Access System)",
+      "point": "Restricted access control",
+      "details": " - restrict access to specific areas within the railway network, eg: control centers, maintenance depots, or restricted zones in train stations.",
+      "point2": "",
+      "details2": "",
+      "point3": "",
+      "details3": ""
+    },
+    {
+      "name": "AFC - (Automatic Fare Collection)",
+      "point": "To access the train",
+      "details": " - consist of ticket vending machines (purchase tickets) & ticket validation machines (scanning tickets before entry)",
+      "point2": "Central computer system",
+      "details2": " - manages the entire AFC network, including user accounts, fares, and transaction data. It communicates with all other components to ensure smooth operation.",
+      "point3": "",
+      "details3": ""
+    },
+    {
+      "name": "BSCADA / SCA - (Supervisory Control & Data Acquisition)",
+      "point": "Data acquisition",
+      "details": " - collects real-time data from various sensors and equipment deployed across the railway network.",
+      "point2": "Data monitoring",
+      "details2": " - continuously monitors the collected data, identifying any deviations from normal operating parameters or potential issues.",
+      "point3": "Control functions",
+      "details3": " - perform basic control functions based on pre-programmed rules or operator intervention."
+    }  
+]

@@ -1,0 +1,17 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+
+.subsys {
+    margin: 20px 0;
+    border-bottom: 1px solid lime;
+}
+.topic, .subsys-name {
+    color: lime;
+    font-size: 1.5em;
+}
+.subsys-point {
+    color: lime;
+}
