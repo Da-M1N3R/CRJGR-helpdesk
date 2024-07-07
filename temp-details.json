@@ -1,0 +1,17 @@
+[
+    {
+      "name": ["ALL - (Uniterruptible Power Supply)"],
+      "point": ["Protecting critical systems", "B"],
+      "details": [" - Temporary power supplies are often used. UPS safeguards essential equipment from power fluctuations, surges, or outrages.", " - Boys are the best"]
+    },  
+    {
+      "name": ["UPS - (Uniterruptible Power Supply)"],
+      "point": ["Protecting critical systems", "Enhanced reliability"],
+      "details": [" - Temporary power supplies are often used. UPS safeguards essential equipment from power fluctuations, surges, or outrages.", " - UPS provides backup power in case of a power outage, preventing disruptions in construction activities. This is especially critical for tasks that require continuous operations."]
+    },
+    {
+      "name": ["SMR / REC - (Switch Mode Rectifier)"],
+      "point": ["Converts AC to DC power.", "Regulates DC output"],
+      "details": [" - The incoming electrical supply from overhead lines for signalling systems is usually AC. The SMR rectifies this AC into DC that can be used by the various electronic equipment.", " - SMR provides a regulated DC output voltage. This mean the voltage stays consistent even with fluctuations in the incoming AC supply, ensuring stable operation for the equipment."]
+    }
+]
