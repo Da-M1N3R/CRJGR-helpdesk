@@ -41,8 +41,8 @@
     },
     {
       "name": ["PABX / PBX - (Private Automated Branch Exchange)"],
-      "point": ["Internal telephone network", "Call routing"],
-      "details": [" - establishes a private telephone network within an organization, allowing employees to make and receive calls internally without going through the public telephone network. It eases the communication between stations and central station which is very important especially in case of emergency.", " - system routes incoming calls to specific extensions within the organization."]
+      "point": ["Internal telephone network", "Call routing", "External line connectivity"],
+      "details": [" - establishes a private telephone network within an organization, allowing employees to make and receive calls internally without going through the public telephone network. It eases the communication between stations and central station which is very important especially in case of emergency.", " - system routes incoming calls to specific extensions within the organization.", " - enables making and receiving calls to external lines, potentially including landlines & mobiles."]
     },
     {
       "name": ["IT / CIT - (Information Technology)"],
